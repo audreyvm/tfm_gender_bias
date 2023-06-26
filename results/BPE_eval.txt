@@ -1,0 +1,28 @@
+Found right:  854 Found wrong:  305 Not Found: 672
+Number of gender marked terms:  1831
+stored tokens to parse:  1831
+d ADP del
+a ADP al
+d ADP dels
+a ADP al
+d ADP dels
+a ADP al
+a ADP al
+a ADP al
+senadora ADP senadora
+a ADP al
+a ADP al
+psiquiatra ADV psiquiatra
+d ADP del
+a ADP al
+prim ADP prim
+Total counts do not match. 1826
+Category	Term Coverage	Gender Accuracy
+-------------------------------------------------
+1F	0.6093366093366094	0.22983870967741934
+1M	0.5555555555555556	0.9260869565217391
+2F	0.64	0.7203947368421053
+2M	0.7046728971962617	0.9681697612732095
+-------------------------------------------------
+Global	0.632987438558165	0.7368421052631579
+-------------------------------------------------
